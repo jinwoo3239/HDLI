@@ -54,8 +54,7 @@ sample6     |blank       |7.1         |0.0         |...         |
 Jupyter Notebook files are prepared as tutorials. You can simply analyze the metabolomic datasets by executing the code step by step.  
 In metabolomics, results are checked at each stage of analysis, and the direction of analysis may be adjusted based on those previous results. Therefore, it is recommended to analyze metabolomic datasets in a step-by-step manner. Utilizing these Jupyter Notebook templates can facilitate this process and enable a more streamlined analysis of your dataset.
 
-# License
-**The example dataset must not be distributed beyond this project**
+
 ## License
 
 The code and datasets in this repository are provided for personal and academic reference only. For more details, please see the [LICENSE](./LICENSE) file.
@@ -63,6 +62,6 @@ The code and datasets in this repository are provided for personal and academic 
 
 
 
-# Author
+## Author
 * Jinwoo Kim
 * e-mail: jinwoo3239@gmail.com
