@@ -1,4 +1,4 @@
-# MetabolomicAnalysis (Environmental Health Perspectives)
+# Humidifier disinfectant–associated lung injury (HDLI) MetabolomicAnalysis 
 
 ## About
 The code corresponding to the paper: (current revision, October 2024).  
