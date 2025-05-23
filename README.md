@@ -1,34 +1,30 @@
-# Humidifier disinfectant–associated lung injury (HDLI) MetabolomicAnalysis 
+# Humidifier disinfectant–associated lung injury (HDLI) Metabolomic Analysis 
 
 ## About
-The code corresponding to the paper: (current revision, October 2024).  
+The code corresponding to the paper: (current revision, May 2025).  
 **All datasets and related code used in the analysis are shared in this GitHub repository.**
 
-*Identification of Metabolic Signatures in Korean Patients with Humidifier Disinfectant–Associated Lung Injury Using Untargeted Metabolomics*
-(I plan to add the link later)
+*Evaluating Metabolic Signatures in the Serum of South Korean Patients with Humidifier Disinfectant–Associated Lung Injury Identified through Untargeted Metabolomics*
 
 Authors:
-Jinwoo Kim1, Mi-Jin Kang2, So-Yeon Lee3, Sang-Bum Hong4, Ho Cheol Kim4, Myung Hee Nam1, *, and Soo-Jong Hong3, *
+Jinwoo Kim1, Mi-Jin Kang2, So-Yeon Lee2,3, Sang-Bum Hong2,4, Ho Cheol Kim4, Myung Hee Nam1,*, and Soo-Jong Hong2,3,*
 
 Affiliations:  
-1Metropolitan Seoul Center, Korea Basic Science Institute (KBSI), Seoul 02841, South Korea  
-2Humidifier Disinfectant Health Center, Asan Medical Center, South Korea  
-3Department of Pediatrics, Childhood Respiratory and Allergy Center, Humidifier Disinfectant Health Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea  
-4Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine
-
+1Metropolitan Seoul Center, Korea Basic Science Institute (KBSI), Seoul, South Korea  
+2Humidifier Disinfectant Health Center, Asan Medical Center, Seoul, South Korea
+3Department of Pediatrics, Childhood Respiratory and Allergy Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea
+4Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea
 *These two corresponding authors contributed equally to the work
 
-Address correspondence to Soo-Jong Hong, Department of Pediatrics, Childhood Respiratory and Allergy Center, Humidifier Disinfectant Health Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea; E-mail: sjhong@amc.seoul.kr, and Myung Hee Nam, Metropolitan Seoul Center, KBSI, Seoul 02841, South Korea; E-mail: nammh@kbsi.re.kr.
+Correspondence to:
+Soo-Jong Hong (E-mail: sjhong@amc.seoul.kr), and Myung Hee Nam (E-mail: nammh@kbsi.re.kr)
 
 ## Prerequisites
 * `python` >= 3.7
 * `numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `sklearn`
 
-
-
 ## Dataset
 The dataset format is as follows:
-
 
 * Features to be analyzed should be in columns and samples should be in rows.
 * **"Name"** and **"Label"** columns must be included.
@@ -56,12 +52,9 @@ In metabolomics, results are checked at each stage of analysis, and the directio
 
 
 ## License
-
 The code and datasets in this repository are provided for personal and academic reference only. For more details, please see the [LICENSE](./LICENSE) file.
 
 
-
-
-## Author
+## First author
 * Jinwoo Kim
 * e-mail: jinwoo3239@gmail.com
