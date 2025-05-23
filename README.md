@@ -7,7 +7,7 @@ The code corresponding to the paper: (current revision, May 2025).
 *Evaluating Metabolic Signatures in the Serum of South Korean Patients with Humidifier Disinfectant–Associated Lung Injury Identified through Untargeted Metabolomics*
 
 Authors:
-Jinwoo Kim1, Mi-Jin Kang2, So-Yeon Lee2,3, Sang-Bum Hong2,4, Ho Cheol Kim4, Myung Hee Nam1,*, and Soo-Jong Hong 2,3,*
+Jinwoo Kim1, Mi-Jin Kang2, So-Yeon Lee2,3, Sang-Bum Hong2,4, Ho Cheol Kim4, Myung Hee Nam1,\*, and Soo-Jong Hong 2,3,\*
 
 Affiliations:  
 1Metropolitan Seoul Center, Korea Basic Science Institute (KBSI), Seoul, South Korea    
