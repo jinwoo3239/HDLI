@@ -7,14 +7,14 @@ The code corresponding to the paper: (current revision, May 2025).
 *Evaluating Metabolic Signatures in the Serum of South Korean Patients with Humidifier Disinfectant–Associated Lung Injury Identified through Untargeted Metabolomics*
 
 Authors:
-Jinwoo Kim1, Mi-Jin Kang2, So-Yeon Lee2,3, Sang-Bum Hong2,4, Ho Cheol Kim4, Myung Hee Nam1,\*, and Soo-Jong Hong 2,3,\*
+Jinwoo Kim<sup>1</sup>, Mi-Jin Kang<sup>2</sup>, So-Yeon Lee<sup>2,3</sup>, Sang-Bum Hong<sup>2,4</sup>, Ho Cheol Kim<sup>2,4</sup>, Myung Hee Nam<sup>1,\*</sup>, and Soo-Jong Hong<sup>2,3,\*</sup>
 
 Affiliations:  
-1Metropolitan Seoul Center, Korea Basic Science Institute (KBSI), Seoul, South Korea    
-2Humidifier Disinfectant Health Center, Asan Medical Center, Seoul, South Korea  
-3Department of Pediatrics, Childhood Respiratory and Allergy Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea  
-4Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea  
-*These two corresponding authors contributed equally to the work  
+<sup>1</sup>Metropolitan Seoul Center, Korea Basic Science Institute (KBSI), Seoul, South Korea    
+<sup>2</sup>Humidifier Disinfectant Health Center, Asan Medical Center, Seoul, South Korea  
+<sup>3</sup>Department of Pediatrics, Childhood Respiratory and Allergy Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea  
+<sup>4</sup>Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea  
+<sup>*</sup>These two corresponding authors contributed equally to the work  
 
 Correspondence to:  
 Soo-Jong Hong (E-mail: sjhong@amc.seoul.kr), and Myung Hee Nam (E-mail: nammh@kbsi.re.kr)  
