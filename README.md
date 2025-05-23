@@ -4,9 +4,7 @@
 The code corresponding to the paper: (current revision, May 2025).  
 **All datasets and related code used in the analysis are shared in this GitHub repository.**
 
-[**Evaluating Metabolic Signatures in the Serum of South Korean Patients with Humidifier Disinfectant–Associated Lung Injury Identified through Untargeted Metabolomics**](https://ehp.niehs.nih.gov/doi/10.1289/EHP14984)
-
-Authors:
+**Evaluating Metabolic Signatures in the Serum of South Korean Patients with Humidifier Disinfectant–Associated Lung Injury Identified through Untargeted Metabolomics**
 Jinwoo Kim<sup>1</sup>, Mi-Jin Kang<sup>2</sup>, So-Yeon Lee<sup>2,3</sup>, Sang-Bum Hong<sup>2,4</sup>, Ho Cheol Kim<sup>2,4</sup>, Myung Hee Nam<sup>1,\*</sup>, and Soo-Jong Hong<sup>2,3,\*</sup>
 
 Affiliations:  
